@@ -1,0 +1,29 @@
+{
+  "name": "nodejsbackendarchitecture",
+  "version": "1.0.0",
+  "description": "NodejsRedis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoangskill/NodejsBackendArchitecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoangskill/NodejsBackendArchitecture/issues"
+  },
+  "homepage": "https://github.com/Hoangskill/NodejsBackendArchitecture#readme",
+  "dependencies": {
+    "compression": "^1.8.0",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "helmet": "^8.1.0",
+    "morgan": "^1.10.0"
+  }
+}
