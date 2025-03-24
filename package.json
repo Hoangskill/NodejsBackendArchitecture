@@ -20,7 +20,9 @@
   "homepage": "https://github.com/Hoangskill/NodejsBackendArchitecture#readme",
   "dependencies": {
     "compression": "^1.8.0",
-    "express": "^4.21.2"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2"
   },
   "devDependencies": {
     "helmet": "^8.1.0",
